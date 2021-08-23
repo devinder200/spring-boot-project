@@ -1,0 +1,1 @@
+insert into alien values(102, 'Navin2', 'java');
